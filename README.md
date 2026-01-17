@@ -1,6 +1,5 @@
 # 📦 GLLB-Apps Dart Packages
 
-<<<<<<< HEAD
 My published packages on pub.dev
 
 | Package | Version | Pub Points | Popularity | Link |
@@ -12,11 +11,9 @@ My published packages on pub.dev
 *Last updated: 2026-01-17 15:24:54 UTC*
 
 *Auto-updated daily via GitHub Actions*
-=======
 Auto-updated list of packages published under [gllb-apps.github.io](https://pub.dev/publishers/gllb-apps.github.io/packages)
 
 *No packages published yet.*
 
 ---
 *Last updated: 2026-01-17 14:59:49 UTC*
->>>>>>> ce2cce0ca6a28c5842437f239d40fd50e18a040f
