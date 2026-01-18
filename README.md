@@ -1,1 +1,15 @@
-sdkdskd
+# 📦 GLLB-Apps Dart Packages
+
+My published packages on pub.dev
+
+⚠️ *Using fallback package list (auto-discovery unavailable)*
+
+| Package | Version | Pub Points | Popularity | Link |
+|---------|---------|------------|------------|------|
+| **flux_wireframe_theme_cli** | ![version](https://img.shields.io/pub/v/flux_wireframe_theme_cli.svg?color=blue) | ![points](https://img.shields.io/pub/points/flux_wireframe_theme_cli?color=green) | ![popularity](https://img.shields.io/pub/popularity/flux_wireframe_theme_cli?color=orange) | [pub.dev](https://pub.dev/packages/flux_wireframe_theme_cli) |
+| **wireframe_theme** | ![version](https://img.shields.io/pub/v/wireframe_theme.svg?color=blue) | ![points](https://img.shields.io/pub/points/wireframe_theme?color=green) | ![popularity](https://img.shields.io/pub/popularity/wireframe_theme?color=orange) | [pub.dev](https://pub.dev/packages/wireframe_theme) |
+
+---
+**Last updated:** `2026-01-18 01:41:53 UTC` 🤖
+
+*Auto-updated daily at 03:00 UTC via GitHub Actions*
