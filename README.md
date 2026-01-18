@@ -52,7 +52,7 @@ Trigger custom actions
 
 Future-ready for Git / export / automation
 
-🗂 Repo / Project Handling
+🗂 Repo / Project Handling 
 
 Store repository paths
 
